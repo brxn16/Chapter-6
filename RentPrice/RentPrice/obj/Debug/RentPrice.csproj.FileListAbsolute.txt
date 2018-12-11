@@ -1,0 +1,10 @@
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\bin\Debug\RentPrice.exe.config
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\bin\Debug\RentPrice.exe
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\bin\Debug\RentPrice.pdb
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\obj\Debug\RentPrice.csprojAssemblyReference.cache
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\obj\Debug\RentPrice.Form1.resources
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\obj\Debug\RentPrice.Properties.Resources.resources
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\obj\Debug\RentPrice.csproj.GenerateResource.cache
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\obj\Debug\RentPrice.csproj.CoreCompileInputs.cache
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\obj\Debug\RentPrice.exe
+C:\Users\bc146152\Desktop\C#\Chapet 6\Chapter-6\RentPrice\RentPrice\obj\Debug\RentPrice.pdb
