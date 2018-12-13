@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips", "CheckZips\CheckZips.csproj", "{9EC25A26-0585-43A9-A70B-E3FC4524B6E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC25A26-0585-43A9-A70B-E3FC4524B6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC25A26-0585-43A9-A70B-E3FC4524B6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC25A26-0585-43A9-A70B-E3FC4524B6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC25A26-0585-43A9-A70B-E3FC4524B6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762BB572-A6F2-48BB-93AE-131AF9B432D2}
+	EndGlobalSection
+EndGlobal
